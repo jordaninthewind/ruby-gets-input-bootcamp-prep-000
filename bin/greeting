@@ -8,3 +8,5 @@ name = gets.strip
 def greeting(name)
   puts "Hi #{name}!!"
 end
+
+greeting(name)
